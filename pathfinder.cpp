@@ -1,13 +1,6 @@
-//////////////////////////////////////////
-// Aslýhan Altun
-// 1306200094
 // Date: 2021.22.05
 // IDE: Visual Studio 2019
-///////////////////////////////////////////
-//Structýn adýnýn Node olmasýna raðmen adres bilgisi içermeyen bir struct oluþturdum. 
-//Baðlantýlarý adjacency matriste toparladým.
-//Bunu benim için yeni bir þey olduðu için bilinçli tercih ettim(Complexity arttýrmasýna raðmen).
-//////////////////////////////////////////
+
 #include <iostream>
 #include <string>
 #include <vector>
