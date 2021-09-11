@@ -90,6 +90,5 @@ int main() {
         if (path_finder(line) == 1) output << line << " [YES]" << endl;
         else output << line << " [NO]" << endl;
     }
-    return 0;
-   
+    return 0;   
 }
